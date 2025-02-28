@@ -20,7 +20,7 @@ Javascript, HTML, CSS , Python , Java, SQL, DSA...
 
 🧠 I'm currently learning DSA and Web Development
 
-👯‍♀️ I'm looking to collaborate wit like minded peoples
+👯‍♀️ I'm looking to collaborate with like minded peoples
 
 💬 Ask me about any anything related to Tech
 
